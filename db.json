@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "shifa@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "employees": [
+    {
+      "id": "2",
+      "username": "shayi",
+      "email": "sha@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "4",
+      "username": "shefu",
+      "email": "shef@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "5",
+      "username": "shenza",
+      "email": "shenu@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "1",
+      "username": "Aami",
+      "email": "am@gmail.com",
+      "status": "active"
+    }
+  ]
+}
