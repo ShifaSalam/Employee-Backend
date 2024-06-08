@@ -2,8 +2,8 @@
   "users": [
     {
       "id": "1",
-      "email": "shifa@gmail.com",
-      "password": "12345"
+      "email": "admin@gmail.com",
+      "password": "321"
     }
   ],
   "employees": [
